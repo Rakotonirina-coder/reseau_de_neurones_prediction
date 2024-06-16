@@ -12,5 +12,5 @@ car cela peut avoir un impact sur leur rentabilité.
 Les banques peuvent utiliser des modèles de régression logistique ou de classification pour prédire 
 la probabilité qu'un client quitte la banque. 
 Cependant, les réseaux de neurones peuvent également être utilisés pour résoudre ce problème.
-Ansi, nous utiliserons un exemple du jeu de donnée client d'une banque (https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers?resource=download) pour  appliquer un réseau de neurones  afin de prédire l'anticipation le départ des clients de cette agence bancaire.  
+Ainsi, nous utiliserons un exemple du jeu de donnée client d'une banque (https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers?resource=download) pour  appliquer un réseau de neurones  afin de prédire l'anticipation le départ des clients de cette agence bancaire.  
 
